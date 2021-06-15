@@ -25,6 +25,10 @@ fhem does logging with one item per line. That's a bit inconvenient for looking 
   - No power meter for measuring power generation.
   - Do not try to generate more power than you need.
   - Do not try to sell electricity back to your provider ("Einspeisevergütung").
-  - Try to do most of the work yourself. (I know: You should also pay yourself. If I go with a rate of 120..150€ per hour for my engineering... go figure if it will ever reach break even...)
+  - Try to do most of the work yourself. (I know: You should also pay yourself. If I go with a rate of 120..150€ per hour for my engineering... go figure if it will ever reach break even...).
+  - If you need an electrician (you probably will because we're in Germany): Try to get hold of a friend of a friend...
 - Having an installation facing west gives you approximately 65% of power generation vs. an installation facing south. 
-- A 250 Watts peak no-name panel gives approx. 200 Watts peak south facing at 45 degrees inclination. If it's a sunny day you'll have a maximum of 1,6 kWh of power generation. That makes for 
+- A 250 Watts peak no-name panel gives approx. 200 Watts peak south facing at 45 degrees inclination. If it's a sunny day you'll have a maximum of 1,6 kWh of power generation. That makes for approx. 25..35 Euros per year of electricity cost cut by generating you own power.
+- It took me about an hour to get hold of the conformity declaration and filling in the necessary paperwork for "legalizing" my 250 Watts peak plug-in panel (declaring it at the utility running the local grid and at the federal agency (Bundesnetzagentur). Again: This is 120..140 Euros per hour of my time. Doohh... 
+- Larger installations will only make sense if you're scaling to a level where you're doing this as a business:
+  -  
