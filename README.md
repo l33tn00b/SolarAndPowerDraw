@@ -20,7 +20,7 @@ fhem does logging with one item per line. That's a bit inconvenient for looking 
 ### Shelly EM Data
 
 # Quick Conclusion(s)
-- If you're seeing a (more or less) constant power draw of your house above a certain level (say 250W): Get a solar panel with a direct inverter (feeding into the house eletrical installation). This will pay off in seven to ten years (at current (2021) electrity and panel/iverter rates). Each additional 25 Euros will roughly add another year for arriving at break-even. So keep additional costs down:
+- If you're seeing a (more or less) constant power draw of your house above a certain level (say 250W): Get a solar panel with a direct inverter (feeding into the house eletrical installation). This will pay off in seven to ten years (at current (2021) electrity and panel/inverter rates). Each additional 25 Euros will roughly add another year for arriving at break-even. So keep additional costs down:
   - Short cable lenghts for feeding into the electrical installation of the house (copper is expensive).
   - No power meter for measuring power generation.
   - Do not try to generate more power than you need.
