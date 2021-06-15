@@ -2,14 +2,16 @@
 Some quick stuff for doing calculations related to solar power generation and power draw. This is Germany.. so there are some specifics to the conclusions (like an electricity price of at least 25 Cents/kWh).
 
 # Intro
-I found it to be fiendishly difficult to determine whether or not to install solar panels. If so, how many? Do I add a battery?  
+I found it to be fiendishly difficult to determine whether or not to install solar panels. If so, how many? Do I add a battery? What about the electric car?  
 As often the case, one needs data to come to qualified conclusions. So here we go... I made it a science project. 
+
 
 # Setup
 There is 
 - a SDM630 three-phase power meter measuring mains power draw. Measurements are taken via Modbus and a Raspberry Pi running [goSDM](https://github.com/gonium/gosdm630).
 - a 250 Watts peak no-name solar panel connected to the grid via an Envertech Inverter. Power generation is measured with a [Shelly Energy Meter](https://shelly-api-docs.shelly.cloud/#shelly-em). The panel had been installed west-facing for about one year (65 degrees inclination). I've now changed it to south-facing at 45 degrees inclination).
 - an instance of [fhem](https://fhem.de/) doing the logging for both energy/power meters.
+- an electric car consuming about 17.3 kWh/100 km.
 
 # Python Scripts for Making Sense of the Data
 fhem does some plotting. These plots are good for a quick glance. And while there are many possible solutions with fhem (there's a module for electricity metering) I'm not much of a Perl guy. So I decided to hack something in Python. Not neccessarily nice but it works.
