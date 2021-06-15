@@ -27,6 +27,7 @@ fhem does logging with one item per line. That's a bit inconvenient for looking 
   - Do not try to sell electricity back to your provider ("Einspeisevergütung").
   - Try to do most of the work yourself. (I know: You should also pay yourself. If I go with a rate of 120..150€ per hour for my engineering... go figure if it will ever reach break even...).
   - If you need an electrician (you probably will because we're in Germany): Try to get hold of a friend of a friend...
+  - Go cheap on the mounting: If you can, skip it. (Another year waiting for break even to happen.) Just take some wood bars to build a frame and a 25kg sandbag as ballast.
 - Having an installation facing west gives you approximately 65% of power generation vs. an installation facing south. 
 - A 250 Watts peak no-name panel gives approx. 200 Watts peak south facing at 45 degrees inclination. If it's a sunny day you'll have a maximum of 1,6 kWh of power generation. That makes for approx. 25..35 Euros per year of electricity cost cut by generating you own power.
 - It took me about an hour to get hold of the conformity declaration for the inverter and filling in the necessary (simplified, because less than 600 Watts) paperwork for "legalizing" my 250 Watts peak plug-in panel (declaring it at the utility running the local grid and at the federal agency (Bundesnetzagentur). Again: This is 120..150 Euros per hour of my time. Doohh... 
